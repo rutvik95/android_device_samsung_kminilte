@@ -35,3 +35,4 @@
 /dev/block/mmcblk1p1		/sdcard		vfat		default		recoveryonly
 /dev/block/mmcblk0p13		/modem		emmc	default		recoveryonly
 /dev/block/mmcblk0p20		/preload     	ext4		default		recoveryonly
+/dev/block/mmcblk1p1 	 	/external_sd    auto 	      default 		 recoveryonly
