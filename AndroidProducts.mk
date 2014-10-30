@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_kminilte.mk
+    $(LOCAL_DIR)/merk_kminilte.mk
